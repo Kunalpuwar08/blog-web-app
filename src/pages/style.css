@@ -1,0 +1,14 @@
+.blog-box{
+    padding: 12px;
+}
+.blog-box .title{
+    margin: 0;
+    font-size: 24px;
+    text-transform: capitalize;
+}
+.blog-box p{
+    margin: 3px;
+}
+.blog-box button{
+    margin: 12px; 
+}
